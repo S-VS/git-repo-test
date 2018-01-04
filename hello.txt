@@ -2,3 +2,4 @@ print("Hello world");
 пополнили код
 еще код
 print("hello friend")
+print("hello girl")
