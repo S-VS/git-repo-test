@@ -1,4 +1,4 @@
-print("Hello world and everybody");
-пополнили код
-еще код
-print("hello friend")
+print("Hello world and everybody;");
+пополнили код;
+еще код;
+print("hello friend;")
