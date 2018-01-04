@@ -1,3 +1,4 @@
 print("Hello world and everybody");
 пополнили код
 еще код
+print("hello friend")
